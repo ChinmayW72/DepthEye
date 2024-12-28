@@ -27,4 +27,7 @@
 
 This project demonstrates the power of stereo vision in real-time scenarios and serves as a foundation for more advanced computer vision applications.  
 
+![image](https://github.com/user-attachments/assets/e381529d-feeb-4c3f-b7f5-ac61c8d1ac1a)
+
+
  ![image](https://github.com/user-attachments/assets/3beb6357-ebae-4dad-8b51-0197ba7f29ef)
